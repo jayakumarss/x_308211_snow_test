@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2019-10-11 18:36:34">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="SNOW Test Case 2">647ec13fdb140010343f58b3ca96198d</application>
+<application_name>SNOW Test Case 2</application_name>
+<application_scope>x_308211_snow_test</application_scope>
+<application_version>1.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>Automatically created by CICD Process</description>
+<inserted/>
+<name>SNOW Test Case 2 - 1.0.0</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>a5fec13fdb140010343f58b3ca961929</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-10-11 18:36:34</sys_created_on>
+<sys_id>680f057fdb140010343f58b3ca961978</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-10-11 18:36:34</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SNOW Test Case 2">647ec13fdb140010343f58b3ca96198d</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_647ec13fdb140010343f58b3ca96198d</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app"><sys_app action="INSERT_OR_UPDATE"><active>true</active><can_edit_in_studio>false</can_edit_in_studio><enforce_license>none</enforce_license><js_level>helsinki_es5</js_level><licensable>true</licensable><license_category>none</license_category><license_model>none</license_model><logo/><menu/><name>SNOW Test Case 2</name><private>false</private><restrict_table_access>false</restrict_table_access><runtime_access_tracking>permissive</runtime_access_tracking><scope>x_308211_snow_test</scope><scoped_administration>false</scoped_administration><short_description/><source>x_308211_snow_test</source><store_correlation_id/><store_url/><sys_class_name>sys_app</sys_class_name><sys_code/><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-11 18:34:07</sys_created_on><sys_id>647ec13fdb140010343f58b3ca96198d</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-11 18:34:07</sys_updated_on><template/><trackable>true</trackable><user_role/><vendor/><vendor_prefix/><version>1.0.0</version></sys_app></record_update>]]></payload>
+<payload_hash>-1784951859</payload_hash>
+<remote_update_set display_value="SNOW Test Case 2 - 1.0.0">680f057fdb140010343f58b3ca961978</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-10-11 18:36:34</sys_created_on>
+<sys_id>2c0f057fdb140010343f58b3ca961978</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16dbc1b80e70000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-10-11 18:36:34</sys_updated_on>
+<table/>
+<target_name>SNOW Test Case 2</target_name>
+<type>Custom Application</type>
+<update_domain>global</update_domain>
+<update_guid>a1fec17f751400108015cda52ef74659</update_guid>
+<update_guid_history>a1fec17f751400108015cda52ef74659:-1784951859,e47e893f3b1400105e754508fe93a8cf:-1784951859</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SNOW Test Case 2">647ec13fdb140010343f58b3ca96198d</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_include_aaae8d3fdb140010343f58b3ca961971</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include"><sys_script_include action="INSERT_OR_UPDATE"><access>package_private</access><active>true</active><api_name>x_308211_snow_test.Test Case 2</api_name><caller_access/><client_callable>false</client_callable><description>Test Case 2</description><name>Test Case 2</name><script/><sys_class_name>sys_script_include</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-11 18:35:59</sys_created_on><sys_id>aaae8d3fdb140010343f58b3ca961971</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Test Case 2</sys_name><sys_package display_value="SNOW Test Case 2" source="x_308211_snow_test">647ec13fdb140010343f58b3ca96198d</sys_package><sys_policy>read</sys_policy><sys_scope display_value="SNOW Test Case 2">647ec13fdb140010343f58b3ca96198d</sys_scope><sys_update_name>sys_script_include_aaae8d3fdb140010343f58b3ca961971</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-11 18:35:59</sys_updated_on></sys_script_include></record_update>]]></payload>
+<payload_hash>1195006291</payload_hash>
+<remote_update_set display_value="SNOW Test Case 2 - 1.0.0">680f057fdb140010343f58b3ca961978</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-10-11 18:36:34</sys_created_on>
+<sys_id>e00f057fdb140010343f58b3ca961979</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16dbc1b80fd0000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-10-11 18:36:34</sys_updated_on>
+<table/>
+<target_name>Test Case 2</target_name>
+<type>Script Include</type>
+<update_domain>global</update_domain>
+<update_guid>e9fec17fa114001032b6df7014b6375a</update_guid>
+<update_guid_history>e9fec17fa114001032b6df7014b6375a:1195006291,88ee417f9e1400101a12ea9af237abfc:1195006291</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
