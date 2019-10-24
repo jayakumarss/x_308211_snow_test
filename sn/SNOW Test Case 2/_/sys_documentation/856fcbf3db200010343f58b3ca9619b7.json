@@ -1,0 +1,23 @@
+{
+  "element": null,
+  "help": null,
+  "hint": null,
+  "label": "Requests",
+  "language": "en",
+  "name": "x_308211_snow_test_requests",
+  "plural": "Requests",
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-10-24 14:13:11",
+  "sys_id": "856fcbf3db200010343f58b3ca9619b7",
+  "sys_mod_count": 0,
+  "sys_name": "Requests",
+  "sys_package": "647ec13fdb140010343f58b3ca96198d",
+  "sys_policy": null,
+  "sys_scope": "647ec13fdb140010343f58b3ca96198d",
+  "sys_update_name": "sys_documentation_x_308211_snow_test_requests__en",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-10-24 14:13:11",
+  "url": null,
+  "url_target": null
+}

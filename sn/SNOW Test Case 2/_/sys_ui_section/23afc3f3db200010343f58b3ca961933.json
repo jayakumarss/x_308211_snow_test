@@ -1,0 +1,21 @@
+{
+  "caption": null,
+  "header": false,
+  "name": "x_308211_snow_test_requests",
+  "roles": null,
+  "sys_class_name": "sys_ui_section",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-10-24 14:14:27",
+  "sys_id": "23afc3f3db200010343f58b3ca961933",
+  "sys_mod_count": 0,
+  "sys_name": "x_308211_snow_test_requests",
+  "sys_package": "647ec13fdb140010343f58b3ca96198d",
+  "sys_policy": null,
+  "sys_scope": "647ec13fdb140010343f58b3ca96198d",
+  "sys_update_name": "sys_ui_section_23afc3f3db200010343f58b3ca961933",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-10-24 14:14:27",
+  "title": true,
+  "view": "Default view",
+  "view_name": null
+}
